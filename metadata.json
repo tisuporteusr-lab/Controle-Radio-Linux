@@ -1,0 +1,6 @@
+{
+  "name": "Controle de Manutenção de Rádios",
+  "description": "Sistema completo para controle de rádios comunicadores, registro de manutenções, setores, histórico de defeitos e relatórios analíticos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
